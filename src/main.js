@@ -2,4 +2,4 @@ import { Application } from '@splinetool/runtime';
 
 const canvas = document.getElementById('canvas3d');
 const app = new Application(canvas);
-app.load('https://prod.spline.design/K9ZMRNvmqKPX5Zv2/scene.splinecode');
+app.load('https://prod.spline.design/X1kVXHfZuRB0llEE/scene.splinecode');
